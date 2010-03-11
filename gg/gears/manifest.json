@@ -1,0 +1,17 @@
+{
+  "betaManifestVersion": 1,
+  "version": "1.0.0 Alpha 4",
+  "entries": [
+      { "url": "../index.php" },
+      { "url": "../gears/gears.js" },
+      { "url": "../gears/gears_init.js" },
+      { "url": "../template/style.css" },
+      { "url": "../template/images/bg.gif" },
+      { "url": "../template/images/bgtop.gif" },
+      { "url": "../template/images/title.jpg" },
+      { "url": "../template/images/box/content-foot.gif" },
+      { "url": "../template/images/box/content-head.gif" },
+      { "url": "../template/images/box/sb-foot.gif" },
+      { "url": "../template/images/box/sb-head.gif" }
+    ]
+}

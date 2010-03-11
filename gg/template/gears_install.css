@@ -1,0 +1,49 @@
+/*
++-------------------------------------------------------------
+|   Bus Navigator
+|   ===============================
+|   by HeavenFox
+|   Copyright (c) 2007 ZhuJingsi and MSANNU
+|   ===============================
+|   www.heavenfox.org
+|   heavenfox@heavenfox.org
++-------------------------------------------------------------
+|
+|   CSS FILE
+|   Module written by HeavenFox
+|   Start:    07-06-16
+|   Last Mod: 07-06-16
+|
++-------------------------------------------------------------
+*/
+.step {
+	border: 1px solid #bebebe;
+	background-color: #f4f4f4;
+	padding: 10px;
+	margin-bottom: 7px;
+}
+
+.cur_step {
+	border: 1px solid #2f60ff;
+	background-color: #b0c3ff;
+}
+
+.step h1 {
+	font-size: 15px;
+	margin: 0px 5px 5px 0px;
+}
+
+.step_finished {
+	border: 1px solid #bebebe;
+	padding: 8px;
+	padding-left: 35px;
+	background: white url('images/gears/install/step_finished.png') no-repeat left center;
+	display: none;
+}
+
+.info_box {
+	border: 1px solid #bebebe;
+	padding: 3px;
+	background-color: white;
+	display: none;
+}

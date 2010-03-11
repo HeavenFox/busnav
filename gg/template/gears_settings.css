@@ -1,0 +1,29 @@
+/*
++-------------------------------------------------------------
+|   Bus Navigator
+|   ===============================
+|   by HeavenFox
+|   Copyright (c) 2007 ZhuJingsi and MSANNU
+|   ===============================
+|   www.heavenfox.org
+|   heavenfox@heavenfox.org
++-------------------------------------------------------------
+|
+|   CSS FILE
+|   Module written by HeavenFox
+|   Start:    07-06-17
+|   Last Mod: 07-06-17
+|
++-------------------------------------------------------------
+*/
+.box {
+	border: 1px solid #bebebe;
+	background-color: #f4f4f4;
+	padding: 10px;
+	margin-bottom: 7px;
+}
+
+.box h1 {
+	font-size: 15px;
+	margin: 0px 5px 5px 0px;
+}
